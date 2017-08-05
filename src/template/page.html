@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html>
 
     <head>
         
@@ -10,20 +10,19 @@
 
     <body>
 
-        <main>
-            <article>
+        {{> header }}
+
+        <div class="content">
 
             {{#if title}}
 
-                <h1>{{ title }}</h1>
+                <h1 class="content-head">{{ title }}</h1>
+
+                {{{ contents }}}
 
             {{/if}}
 
-            {{{ contents }}}
-
-            </article>
-
-        </main>
+        </div>
 
     </body>
 
