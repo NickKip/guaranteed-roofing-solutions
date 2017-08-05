@@ -6,6 +6,7 @@ const layouts = require("metalsmith-layouts");
 const markdown = require("metalsmith-markdown");
 const permalinks = require("metalsmith-permalinks");
 const browsersync = require("metalsmith-browser-sync");
+const assets = require("metalsmith-assets");
 
 const dir = {
 
@@ -46,6 +47,12 @@ Metalsmith(__dirname)
     .use(permalinks())
 
     .use(layouts(templateConfig))
+
+    .use(assets({
+
+        source: dir.source + 'assets/',
+        destination: "./"
+    }))
 
     .use(browsersync({
 
