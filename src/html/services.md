@@ -1,11 +1,13 @@
 ---
-title: About Guaranteed Roofing Solutions
+title: Roofing Services
 description: Test
-layout: page.html
+layout: services.html
 priority: 0.9
-subheading: About Us
-subheadingcontent: Based in Cambridge, Guaranteed Roofing Solutions can help you with... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
+subheading: Services
+subheadingcontent: We offer roofing services all over the UK... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
 ---
+
+This is the services page.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec iaculis nisi. Proin sit amet pulvinar sapien. Sed efficitur sem sit amet commodo cursus. Pellentesque luctus mi ut porta sodales. Nunc ac posuere eros. Quisque nec arcu ut augue sodales facilisis. Integer rutrum, ligula in accumsan gravida, sapien sem molestie urna, in posuere magna massa placerat orci. Integer ultricies non felis in elementum. In eget ligula ac magna euismod mollis gravida sed diam. Aenean ultrices a nibh vestibulum ornare. Cras eu volutpat nunc, ac dapibus lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat nulla ultrices eros dictum, posuere mollis arcu tempus. Donec consequat mollis congue.
 

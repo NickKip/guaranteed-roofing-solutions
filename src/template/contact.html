@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        
+        {{> meta }}
+
+    </head>
+
+    <body>
+
+        {{> header }}
+
+        <div class="content">
+
+            {{#if title}}
+
+                <h1 class="content-head is-center">{{ title }}</h1>
+
+            {{/if}}
+
+            <div class="pure-g">
+                <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
+                    <form class="pure-form pure-form-stacked">
+                        <fieldset>
+
+                            <label for="name">Your Name</label>
+                            <input id="name" type="text" placeholder="Your Name">
+
+
+                            <label for="email">Your Email</label>
+                            <input id="email" type="email" placeholder="Your Email">
+
+                            <label for="enquiry">Your enquiry</label>
+                            <textarea class="pure-input-1" id="enquiry" placeholder="Your Enquiry"></textarea>
+
+                            <button type="submit" class="pure-button">Send</button>
+                        </fieldset>
+                    </form>
+                </div>
+
+                <div class="l-box-lrg pure-u-1 pure-u-md-3-5">
+                    <h4>Contact Us</h4>
+                    {{> contactinfo }}
+
+                    <h4>More Information</h4>
+                    {{{ contents }}}
+                </div>
+            </div>
+
+        </div>
+
+        {{> footer }}
+
+    </body>
+
+</html>
