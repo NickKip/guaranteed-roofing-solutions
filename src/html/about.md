@@ -1,14 +1,19 @@
 ---
-title: About Guaranteed Roofing Solutions
+title: About Guaranteed Roofing Solutions Cambridge, London & South East England
+heading: About Guaranteed Roofing Solutions
 description: Test
 layout: page.html
 priority: 0.9
 subheading: About Us
-subheadingcontent: Based in Cambridge, Guaranteed Roofing Solutions can help you with... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
+subheadingcontent: Based in Cambridge, Guaranteed Roofing Solutions can offer you help and advice with any roofing issues you may have. From small leaks and repairs to new build constructions, extensions and refurbishments, no job is too big or small. All work comes with a standard 10 year Guarantee!
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec iaculis nisi. Proin sit amet pulvinar sapien. Sed efficitur sem sit amet commodo cursus. Pellentesque luctus mi ut porta sodales. Nunc ac posuere eros. Quisque nec arcu ut augue sodales facilisis. Integer rutrum, ligula in accumsan gravida, sapien sem molestie urna, in posuere magna massa placerat orci. Integer ultricies non felis in elementum. In eget ligula ac magna euismod mollis gravida sed diam. Aenean ultrices a nibh vestibulum ornare. Cras eu volutpat nunc, ac dapibus lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat nulla ultrices eros dictum, posuere mollis arcu tempus. Donec consequat mollis congue.
+With over 50 years experience in the Roofing industry you can be assured the advice you're receiving is the best and most accurate!
 
-In varius hendrerit felis sed laoreet. Curabitur lacinia eu nisl eget sodales. In hac habitasse platea dictumst. Quisque mollis libero eu viverra hendrerit. Suspendisse volutpat elit felis, ac pulvinar leo fringilla vitae. In elementum turpis odio, eget euismod libero aliquam sed. Ut tincidunt congue cursus. Nunc enim ex, tempus sit amet vulputate id, sodales a enim. Aliquam ut lacus justo.
+Using the latest technology available in the roofing markets and with unmatched technical advice from our suppliers, your roof will be safe in our hand.
 
-Cras consectetur, nibh sit amet aliquet sollicitudin, lacus nibh facilisis mauris, eu aliquet mi nibh in massa. Nullam hendrerit eu magna a pellentesque. Nunc arcu metus, luctus sit amet tortor pellentesque, vehicula elementum ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit tellus semper vestibulum tristique. Pellentesque varius augue at porttitor bibendum. Quisque vehicula quis nunc eu porttitor. Fusce vitae auctor eros, a dictum tellus. Vivamus gravida viverra dolor, at lobortis mi ullamcorper ut. Phasellus sit amet elementum augue.
+We are fully insured and licensed contractors. We are up to date with all health and safety procedures and carry out all nesssecery risk assessments and method statements to ensure not only you are safe but anyone working or living on the premises are completely safe in the work environment.
+
+Although we are based in Cambridge, we cover all areas in and around East Anglia and the South East.
+
+[Contact us](/contact) today for a free no obligation quote and advice!

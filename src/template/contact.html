@@ -16,26 +16,25 @@
 
             {{#if title}}
 
-                <h1 class="content-head is-center">{{ title }}</h1>
+                <h1 class="content-head is-center">{{ heading }}</h1>
 
             {{/if}}
 
             <div class="pure-g">
                 <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
-                    <form class="pure-form pure-form-stacked">
+                    <form class="pure-form pure-form-stacked" method="post" action="scripts/send_email.php">
                         <fieldset>
 
                             <label for="name">Your Name</label>
-                            <input id="name" type="text" placeholder="Your Name">
-
+                            <input id="name" name="name" type="text" placeholder="Your Name">
 
                             <label for="email">Your Email</label>
-                            <input id="email" type="email" placeholder="Your Email">
+                            <input id="email" name="email" type="email" placeholder="Your Email">
 
                             <label for="enquiry">Your enquiry</label>
-                            <textarea class="pure-input-1" id="enquiry" placeholder="Your Enquiry"></textarea>
+                            <textarea class="pure-input-1" id="enquiry" name="enquiry" placeholder="Your Enquiry"></textarea>
 
-                            <button type="submit" class="pure-button">Send</button>
+                            <button type="submit" class="pure-button">Send Enquiry</button>
                         </fieldset>
                     </form>
                 </div>
@@ -54,5 +53,7 @@
         {{> footer }}
 
     </body>
+
+    {{> ga}}
 
 </html>

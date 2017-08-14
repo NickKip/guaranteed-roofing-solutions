@@ -32,38 +32,34 @@
                     <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
 
                         <h3 class="content-subhead">
-                            <i class="fa fa-rocket"></i>
-                            Roofing thing 1
+                            Flat roof Installations and repairs
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            Single-ply, built up felt and liquid plastics.
                         </p>
                     </div>
                     <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                         <h3 class="content-subhead">
-                            <i class="fa fa-mobile"></i>
-                            Roofing thing 2
+                            Slate and tile / pitched
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            Roofing repairs, maintenance and installation.
                         </p>
                     </div>
                     <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                         <h3 class="content-subhead">
-                            <i class="fa fa-th-large"></i>
-                            Roofting thing 3
+                            Gutter, facia and soffits
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            Repairs and installations including clearing and cleaning.
                         </p>
                     </div>
                     <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                         <h3 class="content-subhead">
-                            <i class="fa fa-check-square-o"></i>
-                            Roofing thing 4
+                            Electronic leak detection
                         </h3>
                         <p>
-                            Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+                            Wet / flood testing on all flat roof surfaces.
                         </p>
                     </div>
                 </div>
@@ -71,18 +67,19 @@
 
             <div class="ribbon l-box-lrg pure-g">
                 <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-                    <img width="300" alt="File Icons" class="pure-img-responsive" src="/img/clay-roof-2533393_1920.jpg">
+                    <img width="300" alt="File Icons" class="pure-img-responsive" src="/img/image2.png">
                 </div>
                 <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-                    <h2 class="content-head content-head-ribbon">About Us</h2>
+                    <h2 class="content-head content-head-ribbon">About Guaranteed Roofing Solutions</h2>
 
                     <p>
-                        Based in Cambridge, Guaranteed Roofing Solutions can help you with...
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor.
+                        Based in Cambridge, Guaranteed Roofing Solutions can offer you help and advice with any roofing issues you may have. 
+                        From small leaks and repairs to new build constructions, extensions and refurbishments, no job is too big or small.
+                        All work comes with a standard <strong>10 year Guarantee</strong>!
+                    </p>
+                    <p>
+                        <a href="/about">Read More &#187;</a>
                     </p>
                 </div>
             </div>
@@ -92,20 +89,20 @@
 
                 <div class="pure-g">
                     <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
-                        <form class="pure-form pure-form-stacked">
+                        <form class="pure-form pure-form-stacked" method="post" action="scripts/send_email.php">
                             <fieldset>
 
                                 <label for="name">Your Name</label>
-                                <input id="name" type="text" placeholder="Your Name">
+                                <input id="name" name="name" type="text" placeholder="Your Name">
 
 
                                 <label for="email">Your Email</label>
-                                <input id="email" type="email" placeholder="Your Email">
+                                <input id="email" name="email" type="email" placeholder="Your Email">
 
                                 <label for="enquiry">Your enquiry</label>
-                                <textarea class="pure-input-1" id="enquiry" placeholder="Your Enquiry"></textarea>
+                                <textarea class="pure-input-1" id="enquiry" name="enquiry" placeholder="Your Enquiry"></textarea>
 
-                                <button type="submit" class="pure-button">Send</button>
+                                <button type="submit" class="pure-button">Send Enquiry</button>
                             </fieldset>
                         </form>
                     </div>
@@ -113,16 +110,8 @@
                     <div class="l-box-lrg pure-u-1 pure-u-md-3-5">
                         <h4>Contact Us</h4>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.
-                        </p>
-
-                        <h4>More Information</h4>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua.
+                            <a href="/contact">Contact</a> us today to talk about your roofing needs. We can answer any and all roofing 
+                            questions and help you with your project. No job is too big or small and comes with a standard 10 year guarantee.
                         </p>
                     </div>
                 </div>
@@ -134,5 +123,7 @@
         </div>
 
     </body>
+
+    {{> ga}}
 
 </html>
