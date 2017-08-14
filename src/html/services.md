@@ -5,7 +5,7 @@ description: Test
 layout: services.html
 priority: 0.9
 subheading: Services
-subheadingcontent: We offer roofing services all over the UK... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
+subheadingcontent: We offer roofing services all over the UK and with over 50 years experience in the roofing industry, you can be assured the service you're receiving is the best and most accurate! See below for summary of some of the services we can help with. If what you're looking for isn't mentioned, then please contact us anyway and we will see if we can help. No job is too big or small!
 ---
 
 To find out more about the services we can offer please [contact](/contact) our office and a member of the team will be happy to assist you.
