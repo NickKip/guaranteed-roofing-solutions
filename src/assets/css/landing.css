@@ -505,3 +505,21 @@ a.pure-button-primary {
     }
 
 }
+
+.c2a-panel {
+    background-color: #1f8dd6;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+    text-decoration: none;
+}
+
+img.rotate90 {
+    transform: rotate(90deg);
+}

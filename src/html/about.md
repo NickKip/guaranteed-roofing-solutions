@@ -6,6 +6,7 @@ layout: page.html
 priority: 0.9
 subheading: About Us
 subheadingcontent: Based in Cambridge, Guaranteed Roofing Solutions can offer you help and advice with any roofing issues you may have. From small leaks and repairs to new build constructions, extensions and refurbishments, no job is too big or small. All work comes with a standard 10 year Guarantee!
+image: IMG_0187.JPG
 ---
 
 With over 50 years experience in the Roofing industry you can be assured the advice you're receiving is the best and most accurate!
