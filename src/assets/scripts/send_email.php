@@ -29,6 +29,7 @@
 
     $mail->setFrom('websitesendmail@guaranteedroofingsolutions.co.uk', 'Website');
     $mail->addAddress('info@guaranteedroofingsolutions.co.uk');
+    $mail->addBCC('nick.kipling1@gmail.com');
 
     $mail->isHTML(false);
 
