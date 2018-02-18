@@ -9,12 +9,21 @@ subheadingcontent: Based in Cambridge, Guaranteed Roofing Solutions can offer yo
 image: IMG_0187.JPG
 ---
 
-With over 50 years experience in the Roofing industry you can be assured the advice you're receiving is the best and most accurate!
+Based in Cambridge and covering the whole of East Anglia and the South, Guaranteed Roofing Solutions has over 50 years’ experience, so you can rest assured you’re in safe hands. We’re proud to offer a specialist service from small leaks and repairs to new build constructions, extensions and refurbishments – no job is too big or small.
 
-Using the latest technology available in the roofing markets and with unmatched technical advice from our suppliers, your roof will be safe in our hand.
+We give nothing less than 100% on every job we do, and believe your home deserves the best. That’s why our customers come back to us time after time.
 
-We are fully insured and licensed contractors. We are up to date with all health and safety procedures and carry out all nesssecery risk assessments and method statements to ensure not only you are safe but anyone working or living on the premises are completely safe in the work environment.
+## Why Choose Guaranteed Roofing Solutions?
 
-Although we are based in Cambridge, we cover all areas in and around East Anglia and the South East.
+* 10 year guarantee on all our products
+* Free no obligation survey and quotation
+* Excellent quality, long lasting roofing
+* Friendly advice
+* Good value prices
+* Tidy and courteous 
+* Use of cutting edge technology
+* Up to date with all health and safety procedures
+* Work only carried out after a full risk assessment and method statement to ensure everyone’s complete safety
+* Fully licensed and insured
 
 [Contact us](/contact) today for a free no obligation quote and advice!
