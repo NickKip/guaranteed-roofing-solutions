@@ -46,6 +46,10 @@ label {
     text-align: center;
 }
 
+.photo {
+    padding: 5px;
+}
+
 
 
 /*
@@ -134,7 +138,10 @@ a.pure-button-primary {
 .splash-container {
     /* background: #1f8dd6; */
     /* background: url("/img/roof-plate-tiles-brick-black-48895.jpeg"); */
-    background: url("/img/image3.jpg");
+    /* background: url("/img/image3.jpg"); */
+    background: url("/img/rotation/IMG_0069.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
     z-index: 1;
     overflow: hidden;
@@ -144,6 +151,8 @@ a.pure-button-primary {
     top: 0;
     left: 0;
     position: fixed !important;
+
+    transition: background 0.3s linear;
 }
 
 .splash {
