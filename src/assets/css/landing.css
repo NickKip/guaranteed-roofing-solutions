@@ -63,6 +63,10 @@ label {
     padding: 5px;
 }
 
+.photoHeading {
+    text-align: center;
+}
+
 
 
 /*
@@ -517,6 +521,12 @@ hr {
 .custom-menu .social-icons {
     position: absolute;
     right: 1em;
+}
+
+@media screen and (max-width: 62em) {
+    .photoHeading {
+        display: none;
+    }
 }
 
 @media (max-width: 62em) {
