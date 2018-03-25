@@ -53,6 +53,13 @@ image: IMG_0187.JPG
     <i class="fa fa-quote-right"></i>
 </p>
 
+<h4>Check out our reviews from other sites we operate on:</h4>
+
+<p>
+    <a href="https://www.ratedpeople.com/profile/guaranteed-roofing-solutions/" target="_blank">Rated People</a><br />
+    <a href="https://www.yell.com/biz/guaranteed-roofing-solutions-ltd-cambridge-9050237/" target="_blank">Yell.com</a>
+</p>
+
 <div class="l-box-lrg pure-g">
     <div class="l-box pure-u-1">
         <a class="c2a-panel" href="/contact">Contact our team today for a free no obligation quote!</a>

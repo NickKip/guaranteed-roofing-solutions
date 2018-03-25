@@ -606,3 +606,17 @@ img.rotate90 {
     background: #111;
     color: #ff9100;
 }
+
+.highlight {
+    text-align: center;
+    color: #ff9100;
+    font-size: 18px;
+}
+
+.center p {
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
