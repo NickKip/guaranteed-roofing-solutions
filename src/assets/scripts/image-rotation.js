@@ -5,14 +5,15 @@ window.rotate = function () {
 
     var images = [
 
-        "/img/rotation/IMG_0069.jpg",
-        "/img/rotation/IMG_0263.jpg",
-        "/img/rotation/IMG_0715a.jpg",
-        "/img/rotation/IMG_0715b.jpg",
-        "/img/rotation/IMG_0784.jpg",
-        "/img/rotation/IMG_0866.jpg",
-        "/img/rotation/IMG_0976.jpg",
-        "/img/rotation/IMG_1511.jpg"
+        "/img/rotation/IMG_1346.jpg",
+        "/img/rotation/IMG_1348.jpg",
+        "/img/rotation/IMG_1358.jpg",
+        "/img/rotation/IMG_1372.jpg",
+        "/img/rotation/IMG_1373.jpg",
+        "/img/rotation/IMG_1398.jpg",
+        "/img/rotation/IMG_1401.jpg",
+        "/img/rotation/IMG_1402.jpg",
+        "/img/rotation/IMG_1452.jpg"
     ];
 
     if (container) {

@@ -36,17 +36,20 @@
     $mail->Subject = 'New Website Enquiry';
     $mail->Body    = $emailBody;
 
-    if(!$mail->send()) {
+    if(!empty($name)) {
 
-        echo 'Message could not be sent.';
-        echo 'Mailer Error: ' . $mail->ErrorInfo;
-    } else {
+        if(!$mail->send()) {
 
-        // $path = str_replace("scripts", "", __DIR__);
-        // $html = file_get_contents($path . 'success/index.html');
-
-        // echo $html;
-
-        header( 'Location: http://www.guaranteedroofingsolutions.co.uk/success/' ) ;
+            echo 'Message could not be sent.';
+            echo 'Mailer Error: ' . $mail->ErrorInfo;
+        } else {
+    
+            // $path = str_replace("scripts", "", __DIR__);
+            // $html = file_get_contents($path . 'success/index.html');
+    
+            // echo $html;
+    
+            header( 'Location: http://www.guaranteedroofingsolutions.co.uk/success/' ) ;
+        }
     }
 ?>

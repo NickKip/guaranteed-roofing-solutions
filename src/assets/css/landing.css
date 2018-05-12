@@ -17,14 +17,15 @@ body {
 body::after{
     position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
     content: 
-        url("/img/rotation/IMG_0069.jpg")
-        url("/img/rotation/IMG_0263.jpg")
-        url("/img/rotation/IMG_0715a.jpg")
-        url("/img/rotation/IMG_0715b.jpg")
-        url("/img/rotation/IMG_0784.jpg")
-        url("/img/rotation/IMG_0866.jpg")
-        url("/img/rotation/IMG_0976.jpg")
-        url("/img/rotation/IMG_1511.jpg");
+        url("/img/rotation/IMG_1346.jpg")
+        url("/img/rotation/IMG_1348.jpg")
+        url("/img/rotation/IMG_1358.jpg")
+        url("/img/rotation/IMG_1372.jpg")
+        url("/img/rotation/IMG_1373.jpg")
+        url("/img/rotation/IMG_1398.jpg")
+        url("/img/rotation/IMG_1401.jpg")
+        url("/img/rotation/IMG_1402.jpg")
+        url("/img/rotation/IMG_1452.jpg");
 }
 
 h1,
@@ -156,7 +157,7 @@ a.pure-button-primary {
     /* background: #1f8dd6; */
     /* background: url("/img/roof-plate-tiles-brick-black-48895.jpeg"); */
     /* background: url("/img/image3.jpg"); */
-    background: url("/img/rotation/IMG_0069.jpg");
+    background: url("/img/rotation/IMG_1346.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
