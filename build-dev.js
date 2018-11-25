@@ -7,6 +7,7 @@ const markdown = require("metalsmith-markdown");
 const permalinks = require("metalsmith-permalinks");
 const browsersync = require("metalsmith-browser-sync");
 const assets = require("metalsmith-assets");
+const sitemap = require("metalsmith-sitemap");
 
 const dir = {
 
@@ -52,6 +53,12 @@ Metalsmith(__dirname)
 
         source: dir.source + 'assets/',
         destination: "./"
+    }))
+
+    .use(sitemap({
+        hostname: "https://www.guaranteedroofingsolutions.co.uk/",
+        omitExtension: true,
+        omitIndex: true
     }))
 
     .use(browsersync({

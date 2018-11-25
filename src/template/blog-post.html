@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        
+        {{> meta }}
+
+    </head>
+
+    <body>
+
+        {{> ga}}
+
+        {{> header }}
+
+        <div class="content">
+
+            {{#if heading }}
+
+                <h1 class="content-head is-center">{{ heading }}</h1>
+
+            {{/if}}
+
+            <div class="l-box-lrg pure-g">
+
+                <div class="l-box pure-u-1">
+
+                    {{{ contents }}}
+
+                </div>
+
+            </div>
+
+        </div>
+
+        {{> footer }}
+
+    </body>
+
+</html>
