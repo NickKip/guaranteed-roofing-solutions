@@ -17,15 +17,23 @@ body {
 body::after{
     position:absolute; width:0; height:0; overflow:hidden; z-index:-1;
     content: 
-        url("/img/rotation/IMG_1346.jpg")
-        url("/img/rotation/IMG_1348.jpg")
-        url("/img/rotation/IMG_1358.jpg")
-        url("/img/rotation/IMG_1372.jpg")
-        url("/img/rotation/IMG_1373.jpg")
-        url("/img/rotation/IMG_1398.jpg")
-        url("/img/rotation/IMG_1401.jpg")
-        url("/img/rotation/IMG_1402.jpg")
-        url("/img/rotation/IMG_1452.jpg");
+        url("/img/rotation/IMG_1452.jpg")
+        url("/img/rotation/IMG_1682.jpg")
+        url("/img/rotation/IMG_1709.jpg")
+        url("/img/rotation/IMG_1863.jpg")
+        url("/img/rotation/IMG_1876.jpg")
+        url("/img/rotation/IMG_1878.jpg")
+        url("/img/rotation/IMG_1880.jpg")
+        url("/img/rotation/IMG_1936.jpg")
+        url("/img/rotation/IMG_1949.jpg")
+        url("/img/rotation/IMG_2030.jpg")
+        url("/img/rotation/IMG_2032.jpg")
+        url("/img/rotation/IMG_2056.jpg")
+        url("/img/rotation/IMG_2069.jpg")
+        url("/img/rotation/IMG_2078.jpg")
+        url("/img/rotation/IMG_2108.jpg")
+        url("/img/rotation/IMG_2115.jpg")
+        url("/img/rotation/IMG_2118.jpg");
 }
 
 h1,
@@ -147,6 +155,18 @@ a.pure-button-primary {
     color: #AECFE5;
 }
 
+.header {
+    display: flex;
+    height: 130px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+#tuckedMenu {
+    top: 130px;
+    left: 0;
+}
 
 /*
  * -- SPLASH STYLES --
@@ -157,7 +177,7 @@ a.pure-button-primary {
     /* background: #1f8dd6; */
     /* background: url("/img/roof-plate-tiles-brick-black-48895.jpeg"); */
     /* background: url("/img/image3.jpg"); */
-    background: url("/img/rotation/IMG_1346.jpg");
+    background: url("/img/rotation/IMG_1452.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -177,7 +197,7 @@ a.pure-button-primary {
     /* absolute center .splash within .splash-container */
     width: 80%;
     height: 50%;
-    margin: auto;
+    margin: 80px auto auto;
     position: absolute;
     top: 100px; left: 0; bottom: 0; right: 0;
     text-align: center;
@@ -194,6 +214,7 @@ a.pure-button-primary {
     font-weight: 100;
     border-radius: 5px;
     line-height: 1em;
+    margin-top: 0;
 }
 
 /* This is the subheading that appears on the blue section */
@@ -274,6 +295,10 @@ a.pure-button-primary {
 .logo-bar {
     padding: 0 3em;
     margin-bottom: 20px;
+}
+
+.logo img {
+    margin-right: 20px;
 }
 
 /* This is the class used for the footer */
@@ -392,6 +417,7 @@ hr {
 
 .custom-menu .pure-menu-link {
     color: #ff9100;
+    padding: .5em .5em;
 }
 
 .custom-menu .pure-menu-link:hover,
@@ -504,11 +530,19 @@ hr {
     margin: 0 0 5px 0;
 }
 
+.contact-information {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
 .custom-menu-tel {
-    position: absolute;
-    right: 1em;
-    top: .5em;
-    padding: .5em;
+    /* position: absolute; */
+    /* right: 1em; */
+    /* top: .5em; */
+    padding: 5px 0;
     color: #ff9100;
     text-decoration: none;
     font-size: 22px;
@@ -519,10 +553,20 @@ hr {
         margin-right: 10px;
     }
 
+    .custom-menu-tel.offset {
+
+        top: 2em;
+    }
+
 .custom-menu .social-icons {
-    position: absolute;
-    right: 1em;
+    display: flex;
+    justify-content: flex-end;
 }
+
+    .custom-menu .social-icons a {
+
+        margin-left: 10px;
+    }
 
 @media screen and (max-width: 62em) {
     .photoHeading {
