@@ -266,8 +266,9 @@ a.pure-button-primary {
 }
 
 /* This is a modifier class used when the content-head is inside a ribbon */
-.content-head-ribbon {
-    color: #ff9100;
+.content-head-ribbon,
+.content-head-ribbon a {
+    color: #ff9100 !important;
 }
 
 /* This is the class used for the content sub-headers (<h3>) */
@@ -664,4 +665,16 @@ img.rotate90 {
 
 .green {
     color: green;
+}
+
+.right-image-blog {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 30%;
+    margin-left: 20px;
+}
+
+.right-image-blog img {
+    margin-bottom: 20px;
 }
