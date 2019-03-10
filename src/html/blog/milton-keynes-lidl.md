@@ -4,12 +4,11 @@ heading: A not-so-Lidl undertaking
 description: Looking for examples of our roofing projects? This case study details our roofing work at Lidl shopping centre in Milton Keynes.
 layout: blog-post.html
 priority: 0.9
+images: [
+    "MK Lidl case study 1.jpg",
+    "MK Lidl case study 2.jpg"
+]
 ---
-
-<div class="right-image-blog">
-    <img src="/img/blog/MK Lidl case study 1.jpg" alt="{{ title }}" />
-    <img src="/img/blog/MK Lidl case study 2.jpg" alt="{{ title }}" />
-</div>
 
 Here at Guaranteed Roofing Solutions, we have several new projects in the pipeline. This includes work in supplying the quality roofing for a new Lidl shopping centre in Milton Keynes. With 50 square metres of 2mm single ply Sika Trocal, this job will take up to a day to complete.
 

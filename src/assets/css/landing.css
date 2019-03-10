@@ -46,6 +46,10 @@ label {
     color: #34495e;
 }
 
+h1 {
+    line-height: 1.2em;
+}
+
 .pure-img-responsive {
     max-width: 100%;
     height: auto;
