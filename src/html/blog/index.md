@@ -6,6 +6,14 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [Rothwell Extension Roof](rothwell-extension-roof/)
+
+Another of our projects here at Guaranteed Roofing Solutions was the rear extension to a site in Rothwell, Kettering.
+
+[Read more &#187;](rothwell-extension-roof/)
+
+<hr>
+
 #### [Nottingham roof installation case study](nottingham-roof-installation/)
 
 Here at Guaranteed Roofing Solutions, we deal with all kinds of roofing jobs. This project took five days to complete, making it one of our larger jobs.
