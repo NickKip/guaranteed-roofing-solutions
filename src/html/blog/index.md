@@ -6,6 +6,22 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [Why choose Guaranteed Roofing Solutions?](expert-roofing-specialists/)
+
+Roofing is an art. It has been a part of the construction trade since people first started building houses. As a result, you can find hundreds of capable roofing contractors both locally and online, ready to help you with your construction, maintenance, or repair project. However, not all roofing companies are created equal.
+
+[Read more &#187;](expert-roofing-specialists/)
+
+<hr>
+
+#### [Roof Maintenance Tips](top-roof-maintenance-tips/)
+
+You know the story. You have a beautiful house, a lovely garden, and a great neighbourhood, but there is one problem: the roof. What should have been a great-looking roof is leaking, slates are smashing onto the ground in strong winds, and if you stand at a certain angle in the bathroom you can actually see the sky.
+
+[Read more &#187;](top-roof-maintenance-tips/)
+
+<hr>
+
 #### [Rothwell Extension Roof](rothwell-extension-roof/)
 
 Another of our projects here at Guaranteed Roofing Solutions was the rear extension to a site in Rothwell, Kettering.

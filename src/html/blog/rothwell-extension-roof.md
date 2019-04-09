@@ -4,7 +4,6 @@ heading: Rothwell Roofing
 description: Looking for examples of our roofing projects? This case study details our roofing work on an extension in Rothwell, Kettering.
 layout: blog-post.html
 priority: 0.9
-private: true
 images: [
     "Rotherwell case study 1.jpg",
     "Rothwell case study 2.jpg"

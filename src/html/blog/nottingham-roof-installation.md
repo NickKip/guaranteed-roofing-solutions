@@ -4,7 +4,6 @@ heading: House and garage roof installation in Nottingham
 description: Looking for examples of our roofing projects? This case study details a house and garage roof installation in Nottingham.
 layout: blog-post.html
 priority: 0.9
-private: true
 images: [
     "Nottingham case study 1.jpg",
     "Nottingham case study 2.jpg",
