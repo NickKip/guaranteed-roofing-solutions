@@ -6,6 +6,14 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [Top of the class for Sika System school roof!](sika-system-school-roof-installation/)
+
+The School Report is in, and Sika Systems has been moved to the top of the class! A great project has come to an end with glowing praise all round. The Stockwood Park Academy in Luton has had the new roof for their two-storey building fully completed, to an A* Standard. 
+
+[Read more &#187;](sika-system-school-roof-installation/)
+
+<hr>
+
 #### [Why choose Guaranteed Roofing Solutions?](expert-roofing-specialists/)
 
 Roofing is an art. It has been a part of the construction trade since people first started building houses. As a result, you can find hundreds of capable roofing contractors both locally and online, ready to help you with your construction, maintenance, or repair project. However, not all roofing companies are created equal.
