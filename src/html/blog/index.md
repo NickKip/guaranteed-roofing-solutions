@@ -6,6 +6,14 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [5 Signs that show it's time to change your roof](signs-roof-needs-replacing/)
+
+Although replacing a tyre on your car or swapping out an old carpet might be considered a small endeavour, replacing the roof on our homes is a major and expensive job. Not only that, but many of us are simply unaware of the signs to look for when deciding whether or not it's time for a <a href="/services/">roof replacement</a>.
+
+[Read more &#187;](signs-roof-needs-replacing/)
+
+<hr>
+
 #### [Top of the class for Sika System school roof!](sika-system-school-roof-installation/)
 
 The School Report is in, and Sika Systems has been moved to the top of the class! A great project has come to an end with glowing praise all round. The Stockwood Park Academy in Luton has had the new roof for their two-storey building fully completed, to an A* Standard. 
