@@ -6,6 +6,14 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [How domestic roofing solutions have evolved over the years](evolution-of-domestic-roofing/)
+
+The roof is arguably the most important structure in any building. Its basic role has not changed substantially over thousands of years - it shelters a building's interior and its occupants from the elements and rounds out a building's aesthetic.
+
+[Read more &#187;](evolution-of-domestic-roofing/)
+
+<hr>
+
 #### [5 Signs that show it's time to change your roof](signs-roof-needs-replacing/)
 
 Although replacing a tyre on your car or swapping out an old carpet might be considered a small endeavour, replacing the roof on our homes is a major and expensive job. Not only that, but many of us are simply unaware of the signs to look for when deciding whether or not it's time for a <a href="/services/">roof replacement</a>.
