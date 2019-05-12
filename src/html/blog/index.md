@@ -6,6 +6,14 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [An in-depth glossary of roofing terminology](roofing-terminology-glossary/)
+
+If you're in the market for a new roof and you've been researching online, you may have stumbled across some confusing terminology from time to time. And with roofing, it can be hard to find out what these new words mean.
+
+[Read more &#187;](roofing-terminology-glossary/)
+
+<hr>
+
 #### [How domestic roofing solutions have evolved over the years](evolution-of-domestic-roofing/)
 
 The roof is arguably the most important structure in any building. Its basic role has not changed substantially over thousands of years - it shelters a building's interior and its occupants from the elements and rounds out a building's aesthetic.
