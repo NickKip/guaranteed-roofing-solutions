@@ -6,6 +6,23 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [What to look for in a roof on your new home](new-home-roof-what-to-look-for/)
+
+When we're shopping for a new home or property to add to our portfolio, there are numerous factors to take into consideration. Sometimes it can be difficult to spot the problem areas.
+
+[Read more &#187;](new-home-roof-what-to-look-for/)
+
+<hr>
+
+
+#### [DIY roof replacement vs professional roof replacement](diy-vs-professional-roof-replacement/)
+
+Maintaining the safety and wellbeing of our homes is of paramount importance. As homeowners (or landlords) we always tend to pick up a few <a href="https://www.telegraph.co.uk/lifestyle/interiors/jeffhowell/6309017/Jeff-Howells-DIY-advice-flat-roofing.html">DIY skills</a> by sheer necessity and once you've put up a few shelves and painted a few sheds, it can be tempting to shun the professionals and assume you can do everything yourself. However, whilst some amongst us might like to assume otherwise, we can't do everything ourselves, at least not to an acceptable degree.
+
+[Read more &#187;](diy-vs-professional-roof-replacement/)
+
+<hr>
+
 #### [An in-depth glossary of roofing terminology](roofing-terminology-glossary/)
 
 If you're in the market for a new roof and you've been researching online, you may have stumbled across some confusing terminology from time to time. And with roofing, it can be hard to find out what these new words mean.
