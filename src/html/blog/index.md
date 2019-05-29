@@ -6,6 +6,14 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [The pros and cons of residential solar panels](residential-solar-panels/)
+
+Solar energy is very 'in' at the moment, particularly in the UK, where solar panel adoption has reached <a href="https://www.solar-trade.org.uk/uk-reaches-1-million-solar-homes-milestone/">over 1 million homes</a>. It's easy to see why. Solar energy is easy to set up, relatively low cost and very low maintenance.
+
+[Read more &#187;](residential-solar-panels/)
+
+<hr>
+
 #### [What to look for in a roof on your new home](new-home-roof-what-to-look-for/)
 
 When we're shopping for a new home or property to add to our portfolio, there are numerous factors to take into consideration. Sometimes it can be difficult to spot the problem areas.
@@ -13,7 +21,6 @@ When we're shopping for a new home or property to add to our portfolio, there ar
 [Read more &#187;](new-home-roof-what-to-look-for/)
 
 <hr>
-
 
 #### [DIY roof replacement vs professional roof replacement](diy-vs-professional-roof-replacement/)
 
