@@ -6,6 +6,22 @@ layout: basic.html
 priority: 0.9
 ---
 
+#### [How to clean and maintain your gutters](gutter-maintenance-advice/)
+
+There is nothing glamorous or sexy about maintaining your gutters. It's a dirty job and you'll probably end up getting drenched in mucky water and wet leaves if you're not taking your time with it.
+
+[Read more &#187;](gutter-maintenance-advice/)
+
+<hr>
+
+#### [Flat vs pitched roof - The pros and the cons](flat-vs-pitched-roof/)
+
+Without a roof, a house is simply not home. Before you start picking out the wallpaper and planning your first big housewarming party, the roof should always be your first concern. 
+
+[Read more &#187;](flat-vs-pitched-roof/)
+
+<hr>
+
 #### [The pros and cons of residential solar panels](residential-solar-panels/)
 
 Solar energy is very 'in' at the moment, particularly in the UK, where solar panel adoption has reached <a href="https://www.solar-trade.org.uk/uk-reaches-1-million-solar-homes-milestone/">over 1 million homes</a>. It's easy to see why. Solar energy is easy to set up, relatively low cost and very low maintenance.
